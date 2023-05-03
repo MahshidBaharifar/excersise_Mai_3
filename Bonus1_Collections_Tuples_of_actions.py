@@ -12,3 +12,5 @@ number=int(input("Enter the number: "))
 
 list=[ (i ,[item for item in range(1,i) if item%i==0]) for i in range(1,number)]
 print(list)
+name='mahshid'
+print(name)
